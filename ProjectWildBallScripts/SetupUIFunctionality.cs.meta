@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 500a8612b1dd1ba4c8875ef6793d3436
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenu: {instanceID: 0}
+  - rulesMenu: {instanceID: 0}
+  - authorMenu: {instanceID: 0}
+  - characterSelectMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
