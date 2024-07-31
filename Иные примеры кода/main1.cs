@@ -5,9 +5,9 @@ class Program
     static void Main()
     {
         // Задание 1: Создание переменных и вывод
-        string fullName = "Третьяков Виталий Анатольевич";
+        string fullName = "Иванов Иван Иванович";
         int age = 28;
-        string email = "vitaliy@example.com";
+        string email = "vi@example.com";
         float programmingScore = 85.5f;
         float mathScore = 90.0f;
         float physicsScore = 78.5f;
