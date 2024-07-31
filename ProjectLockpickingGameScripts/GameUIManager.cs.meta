@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 38428d9cdf2ef0745b18791154533e55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenu: {instanceID: 0}
+  - gameScreen: {instanceID: 0}
+  - winScreen: {instanceID: 0}
+  - loseScreen: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - pin1Text: {instanceID: 0}
+  - pin2Text: {instanceID: 0}
+  - pin3Text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
